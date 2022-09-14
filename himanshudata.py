@@ -104,7 +104,7 @@ def get():
 
 
 
-get()
+# get()
 
 # def show():
 #     con = sqlite3.connect("database.db")  
